@@ -1,2 +1,2 @@
 # capstone-project
-capstone project alx24
+capstone project alx24.
