@@ -1,6 +1,6 @@
 # recipes/serializers.py
 from rest_framework import routers, serializers, viewsets
-from .models import Recipe, Rating, Category
+from recipes.models import Recipe, Rating, Category
 
 class RecipeSerializer(serializers.ModelSerializer):
     class Meta:
